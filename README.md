@@ -10,5 +10,9 @@
 
 <h2> 🪪 Criador</h2>
 
+<div>
+    <img src= "img\Captura de tela 2024-10-23 150201.png">
+</div>
+
 <p>Wanderson Queiroz</p>
 
